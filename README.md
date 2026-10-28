@@ -1,5 +1,11 @@
 # Cube Recipes
 
+> [!WARNING]
+> **Beta software.** CubeArc projects are under active development and are not yet
+> stable. Features, APIs, file formats and workflows may change without backward
+> compatibility. Bugs and incomplete features are expected. Keep backups of
+> important data and independently verify results before relying on them.
+
 Reusable workflows and community challenges for
 [Cube](https://github.com/cubearc/cube) and
 [Cube Play](https://github.com/cubearc/play).
